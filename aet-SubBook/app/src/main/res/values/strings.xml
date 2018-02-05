@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Subbook</string>
+    <string name="clear" />
+    <string name="save" />
+</resources>
